@@ -1,6 +1,4 @@
 # HEC-Lect-Lab-2
 
 In this repo I put Lectures 1 and 2 and the Lab assignment. Helpful to have them all in one place.
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gallyn24/HEC-Lect-Lab-2/blob/main/Lab2_Assignment.ipynb/HEAD)
+https://mybinder.org/v2/gh/gallyn24/HEC-Lect-Lab-2/HEAD
